@@ -1,14 +1,13 @@
 # MRE sample dataset
 
-
 The following datasets contain displacement field acquired from MRE:
 
-1.	Homogeneous phantom data(phantom_homogeneous/)
-2.	Phantom data with two embedded objects, one soft and one hard (phantom_inclusion/)
-3.	Brain data with Meningioma. （brain_tumor/） with t1w map
-4.	Healthy liver data. (liver_healthy/)
-5.	Liver data with hepatic siderosis & cirrhosis (liver_Iron_deposition/)
-6.	Liver data with tumour (liver_tumor/)
+1.	A homogeneous phantom (phantom_homogeneous/)
+2.	A phantom featuring two inclusions, one soft and one hard (phantom_inclusion/)
+3.	Brain tissue with a meningioma（brain_tumor/）
+4.	A healthy liver sample (liver_healthy/)
+5.	A liver exhibiting hepatic siderosis & cirrhosis (liver_Iron_deposition/)
+6.	A liver with a tumor (liver_tumor/)
 
 
 All dataset were acquired using a 3T scanner (uMR790, United Imaging Healthcare, Shanghai, China). MRE was implemented using a single-shot spin-echo echo-planar imaging sequence (TR/TE = 4000/65ms) with a motion-encoding gradient of 40 mT/m.
